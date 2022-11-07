@@ -1,16 +1,15 @@
-# NLW 10 - COPA - Trilha Explorer
+# START - 0rigamid
 
 ![preview](./.github/preview.png)
 
-Projeto construído baseado nas aulas da Rocketseat.
+Projeto construído baseado nas aulas do curso ORIGAMID.
 
-[ 🔶🔶 Clique aqui para acessar](https://fndoa.github.io/START)
+[ 🔶 Clique aqui para acessar](https://fndoa.github.io/START/)
 
 ## 🎮 Tecnologias 🎮
 
 - HTML
 - CSS
-- JavaScript
 - Git e Github
 
 ## 💻 Contato
