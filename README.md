@@ -4,7 +4,7 @@
 
 Projeto construído baseado nas aulas da Rocketseat.
 
-[ 🔶🔶 Clique aqui para acessar](https://fndoa.github.io/)
+[ 🔶🔶 Clique aqui para acessar](https://fndoa.github.io/START)
 
 ## 🎮 Tecnologias 🎮
 
